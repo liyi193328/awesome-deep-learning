@@ -1,5 +1,30 @@
 # Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Contents
+
+* **[Free Online Books](#free-online-books)**  
+
+* **[Courses](#courses)**  
+
+* **[Videos and Lectures](#videos-and-lectures)**  
+
+* **[Papers](#papers)**  
+
+* **[Tutorials](#tutorials)**  
+
+* **[Researchers](#researchers)**  
+
+* **[WebSites](#websites)**  
+
+* **[Datasets](#datasets)**  
+
+* **[Frameworks](#frameworks)**  
+
+* **[Miscellaneous](#miscellaneous)**  
+
+* **[Contributing](#contributing)**  
+
+
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
@@ -28,6 +53,7 @@
 11.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
 12.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
 13.  [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
+14.  [Deep Learning - Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
 
 
 ### Videos and Lectures
@@ -105,6 +131,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 13. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
+14. [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
 
 ## Researchers
 
